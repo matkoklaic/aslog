@@ -1,12 +1,12 @@
 {
   "name": "aslog",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "logging module",
   "licenses": [
-  {
-    "type": "MIT",
-    "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
-  }
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
   ],
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,7 @@
   "homepage": "https://github.com/matkoklaic/aslog",
   "devDependencies": {
     "chai": "^3.5.0",
+    "fs": "0.0.2",
     "mocha": "^2.4.5"
   }
 }
